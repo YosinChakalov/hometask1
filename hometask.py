@@ -208,7 +208,18 @@
 # print("Area of triangle is",0.5*Base*Height)
 
 #10
+# time = int(input())
+# hour = time//3600
+# minute = (time//60)%10
+# second = time%60
+# print(f"{hour} hour {minute} minute {second} second")
+
 #11
+# time = int(input())
+# hour = time//3600
+# minute = time//60%60
+# second = time%60
+# print(f"{hour} hour {minute} minute {second} second")
 
 # 12
 # hour = int(input())
